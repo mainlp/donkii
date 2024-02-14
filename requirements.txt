@@ -1,0 +1,10 @@
+transformers
+torch
+rouge-score
+datasets
+nltk
+peft
+pandas
+numpy
+natsort
+tabulate
